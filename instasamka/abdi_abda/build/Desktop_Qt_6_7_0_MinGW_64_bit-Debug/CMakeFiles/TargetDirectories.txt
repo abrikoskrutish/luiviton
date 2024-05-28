@@ -1,0 +1,9 @@
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/abdi_abda.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/abdi_abda_autogen_timestamp_deps.dir
+D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/abdi_abda_autogen.dir

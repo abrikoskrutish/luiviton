@@ -1,0 +1,9 @@
+# ninja log v5
+2	1198	7386214305403136	abdi_abda_autogen/timestamp	9178f70226e3e20
+2	1198	7386214305403136	abdi_abda_autogen/mocs_compilation.cpp	9178f70226e3e20
+2	1198	7386214305403136	D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/abdi_abda_autogen/timestamp	9178f70226e3e20
+2	1198	7386214305403136	D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/abdi_abda_autogen/mocs_compilation.cpp	9178f70226e3e20
+1204	4907	7386214343456717	CMakeFiles/abdi_abda.dir/main.cpp.obj	844e6ebfc405b799
+1199	4942	7386214343818370	CMakeFiles/abdi_abda.dir/abdi_abda_autogen/mocs_compilation.cpp.obj	efd7b5d4927fcaaf
+1210	5022	7386214344616644	CMakeFiles/abdi_abda.dir/mainwindow.cpp.obj	ca794b1488b58234
+5024	5364	7386214347932860	abdi_abda.exe	82db869894796662

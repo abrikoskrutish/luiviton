@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bf042f40d5bf5e99cbc3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "abdi_abda",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "abdi_abda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abdi_abda-Debug-21eb927b5c7a21080228.json",
+					"name" : "abdi_abda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abdi_abda_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abdi_abda_autogen-Debug-9edf3a4182d8e01779ba.json",
+					"name" : "abdi_abda_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abdi_abda_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abdi_abda_autogen_timestamp_deps-Debug-a0d0e17d01a48d09f591.json",
+					"name" : "abdi_abda_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/repositorii/luivvv/instasamka/abdi_abda/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/repositorii/luivvv/instasamka/abdi_abda"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
